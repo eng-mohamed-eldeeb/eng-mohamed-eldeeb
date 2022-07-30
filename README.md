@@ -30,12 +30,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="./photos/SASS.png" alt="SASS"/>
   </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="./photos/Webpack.png" alt="Webpack"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="./photos/Jest.png" alt="Jest"/>
-  </a>
 </div>  
 <br>
 
