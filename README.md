@@ -41,13 +41,13 @@
 
 ## Contact me ⬇️
 <div>
-  <a href="https://www.linkedin.com/in/eng-omarmuhammad/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/eng-mohamed-eldeeb/" target="_blank" rel="noreferrer">
     <img src="./photos/Linked-in.png" alt="Linked in"/>
   </a>
-  <a href="https://twitter.com/Eng_OmarMuhamad" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/eldeeb_3o" target="_blank" rel="noreferrer">
     <img src="./photos/Twitter.png" alt="Twitter"/>
   </a>
-  <a href="mailto:eng.omarmuhammad@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:agnabiideleeeb@gmail.com" target="_blank" rel="noreferrer">
     <img src="./photos/Gmail.png" alt="Gmail"/>
   </a>
 </div>
