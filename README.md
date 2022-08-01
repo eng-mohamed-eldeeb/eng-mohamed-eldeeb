@@ -5,7 +5,9 @@
 ## Languages and Frameworks:
 <br>
 <div align="center" width="100%">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apieng-mohamed-eldeeb=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-mohamed-eldeeb
+)](https://github.com/eng-mohamed-eldeeb
+/github-readme-stats)
 </div>
 
 ### Languages:
