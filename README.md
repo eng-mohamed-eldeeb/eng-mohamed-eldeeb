@@ -6,7 +6,7 @@
 <br>
 <div align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-eldeeb&theme=tokyonight" alt="mohamed eldeeb stat" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamed-eldeeb&theme=tokyonight" alt="mohamed eldeeb most used languages" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mohamed-eldeeb&theme=tokyonight" alt="mohamed eldeeb most used languages" height="155" width="400" />
 </div>
 
 ### Languages:
