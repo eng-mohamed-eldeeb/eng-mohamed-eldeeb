@@ -5,8 +5,7 @@
 ## Languages and Frameworks:
 <br>
 <div align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" height="155"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apieng-mohamed-eldeeb=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### Languages:
