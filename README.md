@@ -146,6 +146,7 @@
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
+#### Fun fact: Open this [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and you will laugh 
 
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
