@@ -5,8 +5,7 @@
 ## Languages and Frameworks:
 <br>
 <div align="center" width="100%">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-eldeeb&theme=dark&show_icons=true" alt="mohamed eldeeb stat" height="155" />
+<img src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-eldeeb&theme=tokyonight" alt="mohamed eldeeb stat" height="155" />
 </div>
 
 ### Languages:
