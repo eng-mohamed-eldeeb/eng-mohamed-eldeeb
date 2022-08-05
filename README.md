@@ -44,7 +44,7 @@
   <a href="https://twitter.com/eldeeb_3o" target="_blank" rel="noreferrer">
     <img src="./photos/Twitter.png" alt="Twitter"/>
   </a>
-  <a href="mailto:agnabiideleeeb@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:agnabiideleeeb@gmail.com" hieght='70' target="_blank" rel="noreferrer">
     <img src="./photos/Gmail.png" alt="Gmail"/>
   </a>
 </div>
