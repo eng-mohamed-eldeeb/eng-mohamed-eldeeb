@@ -31,7 +31,7 @@
     <img src="./photos/SASS.png" alt="SASS"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="./photos/nextjs" alt="Nextjs"/>
+    <img src="./photos/next.png" alt="Nextjs"/>
   </a>
 </div>  
 <br>
