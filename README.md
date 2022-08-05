@@ -30,9 +30,9 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="./photos/SASS.png" alt="SASS"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank"  rel="noreferrer">
+  <!-- <a href="https://nextjs.org/" target="_blank"  rel="noreferrer">
     <img src="./photos/next-js.256x256.png" alt="Nextjs"/>
-  </a>
+  </a> -->
 </div>  
 <br>
 
