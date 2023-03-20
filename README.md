@@ -2,9 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+full+stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
 <h3 align="center">A passionate fullstake developer from India</h3>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,3 +11,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-mohamed-eldeeb&show_icons=true&locale=en" alt="eng-mohamed-eldeeb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mohamed-eldeeb&" alt="eng-mohamed-eldeeb" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@eldeeb_3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@eldeeb_3o" height="30" width="60" /></a>
+<a href="https://linkedin.com/in/eng-mohamed-eldeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-mohamed-eldeeb" height="30" width="60" /></a>
+</p>
