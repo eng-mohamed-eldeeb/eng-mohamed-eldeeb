@@ -28,7 +28,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mohamed-eldeeb&" alt="eng-mohamed-eldeeb" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+## 🙋‍♀️ Let's Connect
+
+<br>
 <p align="left">
 <a href="https://twitter.com/@eldeeb_3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@eldeeb_3o" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/eng-mohamed-eldeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-mohamed-eldeeb" height="30" width="60" /></a>
